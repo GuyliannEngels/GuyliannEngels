@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 I'm Guyliann from Belgium. I'm research and teaching assistant at Numerical Ecology of Aquatic systems laboratory, University of Mons (UMONS).
 
-- 🔭 I’m currently working on [the biological data science course](https://wp.sciviews.org/) 
+My languages of choice are R.
+
+- 🔭 I’m currently working on the [Data Science courses for biologists](https://github.com/BioDataScience-Course) 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuyliannEngels&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
 
