@@ -19,7 +19,16 @@ I'm Guyliann from Belgium. I'm research and teaching assistant at Numerical Ecol
 
 My languages of choice are R.
 
-- 🔭 I’m currently working on the [Data Science courses for biologists](https://github.com/BioDataScience-Course) 
+- 🔭 I’m currently working on
+  - the [Data Science courses for biologists](https://github.com/BioDataScience-Course) 
+  - the diversity of marine plankton 
+
+### Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+### GitHub Stats ⭐ 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuyliannEngels&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
 
