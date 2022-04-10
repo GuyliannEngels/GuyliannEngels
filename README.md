@@ -27,7 +27,7 @@ My languages of choice are R.
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3](https://github.com/BioDataScience-Course/BioDataScience/issues/3) in [BioDataScience-Course/BioDataScience](https://github.com/BioDataScience-Course/BioDataScience)
-2. 💪 Opened PR [#3](https://github.com/BioDataScience-Course/BioDataScience/pull/3) in [BioDataScience-Course/BioDataScience](https://github.com/BioDataScience-Course/BioDataScience)
+2. 🗣 Commented on [#3](https://github.com/BioDataScience-Course/BioDataScience/issues/3) in [BioDataScience-Course/BioDataScience](https://github.com/BioDataScience-Course/BioDataScience)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats ⭐ 
