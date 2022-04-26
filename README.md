@@ -21,7 +21,7 @@ My languages of choice are R.
 
 - 🔭 I’m currently working on
   - the [Data Science courses for biologists](https://github.com/BioDataScience-Course) 
-  - the diversity of marine plankton 
+  - the diversity of marine plankton : [identification guide to mesoplankton](https://econum.github.io/plankton_stdce_guide/)
 
 ### Recent GitHub Activity
 
