@@ -26,14 +26,3 @@ My languages of choice are R.
 My last paper in the *Foundations of Data Science*: [Teaching data science to students in biology using R, RStudio and Learnr: Analysis of three years data](https://doi.org/10.3934/fods.2022022). The public repository is [
 teaching_data_science_in_biology](https://github.com/BioDataScience-Course/teaching_data_science_in_biology).
 
-### Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/BioDataScience-Course/BioDataScience/issues/3) in [BioDataScience-Course/BioDataScience](https://github.com/BioDataScience-Course/BioDataScience)
-2. 🗣 Commented on [#3](https://github.com/BioDataScience-Course/BioDataScience/issues/3) in [BioDataScience-Course/BioDataScience](https://github.com/BioDataScience-Course/BioDataScience)
-<!--END_SECTION:activity-->
-
-### GitHub Stats ⭐ 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuyliannEngels&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
-
