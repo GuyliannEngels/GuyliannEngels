@@ -23,6 +23,9 @@ My languages of choice are R.
   - the [Data Science courses for biologists](https://github.com/BioDataScience-Course) 
   - the diversity of marine plankton : [identification guide to mesoplankton](https://econum.github.io/plankton_stdce_guide/)
 
+My last paper in the *Foundations of Data Science*: [Teaching data science to students in biology using R, RStudio and Learnr: Analysis of three years data](https://doi.org/10.3934/fods.2022022). The public repository is [
+teaching_data_science_in_biology](https://github.com/BioDataScience-Course/teaching_data_science_in_biology).
+
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
