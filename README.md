@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # GuyliannEngels
 
-I'm Guyliann from Belgium. I'm research and teaching assistant at Numerical Ecology of Aquatic systems laboratory, University of Mons (UMONS).
+I'm Guyliann from Belgium. I'm research and teaching assistant at Numerical Ecology Unit, University of Mons (UMONS).
 
 My languages of choice are R.
 
